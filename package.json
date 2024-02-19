@@ -1,0 +1,18 @@
+{
+  "name": "1.-addtask",
+  "version": "1.0.0",
+  "description": "adding task to new file",
+  "main": "script.js",
+  "scripts": {
+    "start" : "node script.js",
+    "test": "start"
+  },
+  "keywords": [
+    "basic",
+    "day-2",
+    "adding",
+    "task"
+  ],
+  "author": "Trisha Das",
+  "license": "ISC"
+}
